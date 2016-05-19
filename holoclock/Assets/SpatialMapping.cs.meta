@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: aafaeedc6ab584949a8212f7ab0b86f5
+timeCreated: 1463632058
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DrawMaterial: {fileID: 2100000, guid: 4b0f3315a044218428165ca0893aa0b5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
